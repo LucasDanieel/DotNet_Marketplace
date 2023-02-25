@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Infra.Data\\DotNet.Marketplace.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Domain\\DotNet.Marketplace.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Domain\\DotNet.Marketplace.Domain.csproj",
+        "projectName": "DotNet.Marketplace.Domain",
+        "projectPath": "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Domain\\DotNet.Marketplace.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Infra.Data\\DotNet.Marketplace.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Infra.Data\\DotNet.Marketplace.Infra.Data.csproj",
+        "projectName": "DotNet.Marketplace.Infra.Data",
+        "projectPath": "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Infra.Data\\DotNet.Marketplace.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Domain\\DotNet.Marketplace.Domain.csproj": {
+                "projectPath": "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Domain\\DotNet.Marketplace.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.20.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

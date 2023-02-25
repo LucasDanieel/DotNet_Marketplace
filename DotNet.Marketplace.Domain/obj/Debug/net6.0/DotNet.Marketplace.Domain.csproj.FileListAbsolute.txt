@@ -1,0 +1,12 @@
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\DotNet.Marketplace.Domain.csproj.AssemblyReference.cache
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\DotNet.Marketplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\DotNet.Marketplace.Domain.AssemblyInfoInputs.cache
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\DotNet.Marketplace.Domain.AssemblyInfo.cs
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\DotNet.Marketplace.Domain.csproj.CoreCompileInputs.cache
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\bin\Debug\net6.0\DotNet.Marketplace.Domain.deps.json
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\bin\Debug\net6.0\DotNet.Marketplace.Domain.dll
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\bin\Debug\net6.0\DotNet.Marketplace.Domain.pdb
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\DotNet.Marketplace.Domain.dll
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\refint\DotNet.Marketplace.Domain.dll
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\DotNet.Marketplace.Domain.pdb
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Domain\obj\Debug\net6.0\ref\DotNet.Marketplace.Domain.dll

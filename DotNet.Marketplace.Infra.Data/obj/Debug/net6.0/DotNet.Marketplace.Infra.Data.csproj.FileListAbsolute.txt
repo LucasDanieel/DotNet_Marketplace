@@ -1,0 +1,15 @@
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\bin\Debug\net6.0\DotNet.Marketplace.Infra.Data.deps.json
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\bin\Debug\net6.0\DotNet.Marketplace.Infra.Data.dll
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\bin\Debug\net6.0\DotNet.Marketplace.Infra.Data.pdb
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\bin\Debug\net6.0\DotNet.Marketplace.Domain.dll
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\bin\Debug\net6.0\DotNet.Marketplace.Domain.pdb
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\DotNet.Marketplace.Infra.Data.csproj.AssemblyReference.cache
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\DotNet.Marketplace.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\DotNet.Marketplace.Infra.Data.AssemblyInfoInputs.cache
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\DotNet.Marketplace.Infra.Data.AssemblyInfo.cs
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\DotNet.Marketplace.Infra.Data.csproj.CoreCompileInputs.cache
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\DotNet.Marketplace.Infra.Data.csproj.CopyComplete
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\DotNet.Marketplace.Infra.Data.dll
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\refint\DotNet.Marketplace.Infra.Data.dll
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\DotNet.Marketplace.Infra.Data.pdb
+C:\temp\DotNet\DotNet.Marketplace\DotNet.Marketplace.Infra.Data\obj\Debug\net6.0\ref\DotNet.Marketplace.Infra.Data.dll

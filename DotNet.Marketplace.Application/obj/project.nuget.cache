@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qaJxI9fuoqn3S/is81eOekNX5rAqAj+E+Dbe7UuEy6pIEF03k0V+iFQnP+4JhHOORuwr4N31EE9BG8/t/n3GhA==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\DotNet\\DotNet.Marketplace\\DotNet.Marketplace.Application\\DotNet.Marketplace.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

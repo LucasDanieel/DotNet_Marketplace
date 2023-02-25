@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w3e9PR4hVdKGY2hHvUuGYLAh8ILTnz30G0h69DnNz8U=",
+  "Source": "DotNet.Marketplace.Api",
+  "BasePath": "_content/DotNet.Marketplace.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

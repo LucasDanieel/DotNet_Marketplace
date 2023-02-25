@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotNet.Marketplace.Application\DotNet.Marketplace.Application.csproj" />
+    <ProjectReference Include="..\DotNet.Marketplace.Domain\DotNet.Marketplace.Domain.csproj" />
+    <ProjectReference Include="..\DotNet.Marketplace.Infra.Data\DotNet.Marketplace.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
