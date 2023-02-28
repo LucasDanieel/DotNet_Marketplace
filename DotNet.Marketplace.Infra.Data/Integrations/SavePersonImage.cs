@@ -10,7 +10,7 @@ namespace DotNet.Marketplace.Infra.Data.Integrations
 
         public SavePersonImage()
         {
-            _path = "C:/temp/aMarketplace";
+            _path = "PATH";
         }
         public string CreateImageUrl(string imageBase64)
         {
